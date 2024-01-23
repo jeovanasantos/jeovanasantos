@@ -1,4 +1,5 @@
 ### 💜👋 Olá, meu nome é <strong>Jeovana Santos da Costa!</strong>
+Estudante de Tecnologia da Informação com foco em Desenvolvimento Web Full Stack.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeovana-santos-da-costa)
 
@@ -27,6 +28,5 @@
 
 ![jeovana GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeovanasantos&show_icons=true&theme=radical)
 
----
-Estudante de Tecnologia da Informação com foco em Desenvolvimento Web Full Stack.
+
 
