@@ -7,7 +7,7 @@ Estudante de Tecnologia da Informação com foco em Desenvolvimento Web Full Sta
 
 ## 🚀🖥️ Minhas Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeovanasantos&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeovanasantos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
