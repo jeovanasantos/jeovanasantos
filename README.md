@@ -15,5 +15,14 @@ Estudante de Tecnologia da Informação com foco em Desenvolvimento Web Full Sta
 
 ![jeovana GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeovanasantos&show_icons=true&theme=dark)
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/jeovanasantos/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
